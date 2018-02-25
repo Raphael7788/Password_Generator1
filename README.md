@@ -10,3 +10,6 @@ FRENCH: Générez le mot de passe plus rapidement, plutôt que de trouver des ca
 GERMAN: Erzeuge das Passwort schneller, anstatt Charaktere zu finden, über die du nachdenken kannst. Nun, wir könnten einfach die Tastatur zufällig eingeben.
 
 MANDARIN: Gèng kuài dì chuàngjiàn mìmǎ, ér bùshì zhǎodào nín kěyǐ kǎolǜ de zìfú. Nàme, wǒmen kěyǐ suíyì shūrù jiànpán.
+
+SPANISH:
+Para generar una contraseña más rápido, en lugar de encontrar algunos personajes para que pienses. Aunque, podríamos simplemente escribir el teclado al azar.
